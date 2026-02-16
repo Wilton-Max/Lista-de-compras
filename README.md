@@ -1,16 +1,27 @@
-# app_lista_compras
+# 🛒 App Lista de Compras
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para gerenciamento de listas de compras, permitindo criar listas personalizadas, adicionar produtos com preços e acompanhar o total gasto em tempo real.
 
-## Getting Started
+Este projeto faz parte do **Desafio Fase 2** da formação Growdev.
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Home (Vazia) | Minhas Listas | Criar Lista | Detalhes da Lista |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/screenshots/pagina-1.png" width="200"> | <img src="assets/screenshots/pagina-9.png" width="200"> | <img src="assets/screenshots/pagina-2.png" width="200"> | <img src="assets/screenshots/pagina-8.png" width="200"> |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> *Dica: Crie uma pasta chamada `assets/screenshots` na raiz do projeto e salve os prints do seu app lá para que as imagens apareçam aqui.*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Funcionalidades
+
+- **Gerenciamento de Listas:** Crie múltiplas listas de compras (ex: Mercado, Farmácia).
+- **Itens e Preços:** Adicione itens com nome e preço.
+- **Cálculo Automático:** Veja o total dos itens marcados (carrinho) e não marcados.
+- **Barra de Progresso:** Acompanhe visualmente quantos itens já foram comprados na lista principal.
+- **Interface Intuitiva:** Layout limpo seguindo as diretrizes do Material Design.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Flutter** (Framework UI)
+- **Dart** (Linguagem)
+- **StatefulWidget** (Gerenciamento de estado nativo)
