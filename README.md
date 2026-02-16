@@ -8,9 +8,8 @@ Este projeto faz parte do **Desafio Fase 2** da formação Growdev.
 
 | Home (Vazia) | Minhas Listas | Criar Lista | Detalhes da Lista |
 |:---:|:---:|:---:|:---:|
-| <img src="assets/screenshots/pagina-1.png" width="200"> | <img src="assets/screenshots/pagina-9.png" width="200"> | <img src="assets/screenshots/pagina-2.png" width="200"> | <img src="assets/screenshots/pagina-8.png" width="200"> |
+| <img src="assets/screenshots/home.png" width="200"> | <img src="assets/screenshots/minhas listas.png" width="200"> | <img src="assets/screenshots/criar lista.png" width="200"> | <img src="assets/screenshots/detalhes da lista.png" width="200"> |
 
-> *Dica: Crie uma pasta chamada `assets/screenshots` na raiz do projeto e salve os prints do seu app lá para que as imagens apareçam aqui.*
 
 ## ✨ Funcionalidades
 
